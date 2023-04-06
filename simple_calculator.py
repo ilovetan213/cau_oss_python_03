@@ -34,6 +34,4 @@ while True:
       print("Invalid operation")
       continue
     
-
-
 print("Exit program")
