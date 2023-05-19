@@ -3,3 +3,12 @@
 
 ##2023-0406
 simple calculator 코드 완성
+
+## 2023-05-02
+Diff 시연중
+
+## 2023-0509
+GitLens 실습
+
+## 2023-05-19
+HOMEWORK#4 figure 모듈 구현
